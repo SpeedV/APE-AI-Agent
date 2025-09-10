@@ -1,0 +1,19 @@
+{
+  "name": "APE AI Agent",
+  "version": "1.0",
+  "description": "An A2A agent with six basic capabilities for practicing agent design.",
+  "endpoints": [
+    {
+      "url": "http://127.0.0.1:5000/v1/messages",
+      "type": "JSON-RPC 2.0"
+    }
+  ],
+  "capabilities": [
+    "llm-style general QA",
+    "tool usage",
+    "image understanding",
+    "web browsing",
+    "code execution",
+    "memory"
+  ]
+}

@@ -1,0 +1,6 @@
+flask
+falsk-cors
+ollama
+requests
+beautifulsoup4
+selenium
